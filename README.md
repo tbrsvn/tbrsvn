@@ -1,4 +1,5 @@
 ### Hi there 👋
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Norok-The-Diablo)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Norok-The-Diablo/Norok-The-Diablo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
+</p>
