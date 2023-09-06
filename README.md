@@ -25,9 +25,11 @@ I'm a programmer, Linux user, and all around computer enthusiast! I won the 2022
 
 ### Some Of My Favorite Projects I Have Made Are
 
-* [Recipe Finder (https://stackoverflow.com)][RecipeFinder]
-
-
+* My (Neo)vim config - <>
+* Recipe finder - <>
+* Alpaca LLM based voice assistant - <>
+* Medicine Alarm (CaC winning app) - <>
+* Goosenator 6000 - <>
 
 <p align="center"> 
   Visitor Count<br>
