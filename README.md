@@ -25,11 +25,11 @@ I'm a programmer, Linux user, and all around computer enthusiast! I won the 2022
 
 ### Some Of My Favorite Projects I Have Made Are
 
-* My (Neo)vim config - <>
-* Recipe finder - <>
-* Alpaca LLM based voice assistant - <>
-* Medicine Alarm (CaC winning app) - <>
-* Goosenator 6000 - <>
+* My (Neo)vim config - <https://github.com/Norok-The-Diablo/vimconfig>
+* Recipe finder - <https://github.com/Norok-The-Diablo/recipefinder>
+* Alpaca LLM based voice assistant - <https://github.com/Norok-The-Diablo/alpacavoiceassistant>
+* Medicine Alarm (CaC winning app) - <https://github.com/Norok-The-Diablo/CodeForCongressApp>
+* Goosenator 6000 - <https://github.com/Norok-The-Diablo/goosenator>
 
 <p align="center"> 
   Visitor Count<br>
