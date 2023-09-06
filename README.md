@@ -4,8 +4,8 @@
 
 I'm a programmer, Linux user, and all around computer enthusiast! I won the 2022 CaC in California district 19. I currently am working with AI, python, and am a certified java hater. My hobbies include wood working, walking my dogs, and playing video games.
 
-### My Tech Stack
-I can program in:
+### I Can Program In
+
 * Python
 * Java (Kind of)
 * Batchfile
@@ -13,15 +13,19 @@ I can program in:
 * VBScript
 * Arduino
 * Rust (Learning)
+* Vimscript
+* Dockerfile
 
 ### I Hope To Learn
 
 * Web development
 * How to fly
 * Emacs
+* How to get Nvidia drivers to work in Linux
 
+### Some Of My Favorite Projects I Have Made Are
 
-### Some Of My Favorite Projects Are
+* [Recipe Finder (https://stackoverflow.com)][RecipeFinder]
 
 
 
