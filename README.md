@@ -2,7 +2,7 @@
 [![My Github Stats!](https://github-readme-stats.vercel.app/api?username=Norok-The-Diablo)](https://github.com/anuraghazra/github-readme-stats)
 ### 🙃 About Me
 
-I'm a programmer, Linux user, and all around computer enthusiast! I won the 2022 CaC in California district 19. I currently am working with AI, python, and am a certified java hater. My hobbies include wood working, walking my dogs, and playing video games.
+I'm a programmer, Linux user, and all around computer enthusiast! I won the 2022 CFC for California district 19. I currently am working with AI, python, and am a certified java hater. My hobbies include wood working, walking my dogs, and playing video games.
 
 ### 💾 I Can Program In
 
@@ -22,6 +22,8 @@ I'm a programmer, Linux user, and all around computer enthusiast! I won the 2022
 * How to fly
 * Emacs
 * How to get Nvidia drivers to work in Linux
+* More about AI
+* Golang
 
 ### 🌟 Some Of My Favorite Projects I Have Made Are
 
