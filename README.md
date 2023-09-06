@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 -->
 
 <p align="center"> 
-  Visitor count<br>
+  Visitor Count<br>
   <img src="https://profile-counter.glitch.me/Norok-The-Diablo/count.svg" />
 </p>
