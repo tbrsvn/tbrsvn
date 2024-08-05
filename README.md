@@ -8,28 +8,28 @@ I'm a programmer, Linux user, and all around computer enthusiast! I won the 2022
 
 ### 💾 I Can Program In
 
-* Python
-* Java (Kind of)
-* Batchfile
+* Arduino script
 * Bash
-* VBScript
-* Arduino
-* Rust (Learning)
-* Vimscript
+* Batchfile
 * Dockerfile
+* Java (I wish I couldn't)
+* Python
+* Rust (Learning currently)
+* VBScript
+* Vimscript
 
 ### 📒 I Hope To Learn
 
-* Web development
+* Emacs (not really)
+* Golang
 * How to fly
-* Emacs
 * How to get Nvidia drivers to work in Linux
 * More about AI
-* Golang
+* SQL
 
-### 🌟 Some Of My Favorite Projects I Have Made Are
+### 🌟 Some Of My Favorite Projects I Have Made So Far Are
 
-* My (Neovim config)[https://github.com/Norok-The-Diablo/vimconfig]
+* My (Neo)vim config <https://github.com/Norok-The-Diablo/vimconfig>
 * Recipe finder - <https://github.com/Norok-The-Diablo/recipefinder>
 * Alpaca LLM based voice assistant - <https://github.com/Norok-The-Diablo/alpacavoiceassistant>
 * Medicine Alarm (CFC winning app) - <https://github.com/Norok-The-Diablo/CodeForCongressApp>
