@@ -37,9 +37,9 @@ I'm a programmer, Linux user, and all around computer enthusiast! I won the 2022
 
 ### 🌐 Websites I Have Made
 
-*<https://goosenator6000.github.io/>
-*<https://texteditorconfigs.github.io/>
-*<https://meganmoodie.github.io/>
+* <https://goosenator6000.github.io/>
+* <https://texteditorconfigs.github.io/>
+* <https://meganmoodie.github.io/>
 
 <p align="center"> 
   Visitor Count<br>
