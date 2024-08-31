@@ -35,6 +35,12 @@ I'm a programmer, Linux user, and all around computer enthusiast! I won the 2022
 * [Medicine Alarm (CFC winning app)](https://github.com/Norok-The-Diablo/CodeForCongressApp)
 * [Goosenator 6000](https://github.com/Norok-The-Diablo/goosenator)
 
+### 🌐 Websites I Have Made
+
+*<https://goosenator6000.github.io/>
+*<https://texteditorconfigs.github.io/>
+*<https://meganmoodie.github.io/>
+
 <p align="center"> 
   Visitor Count<br>
   <img src="https://profile-counter.glitch.me/Norok-The-Diablo/count.svg" />
