@@ -1,6 +1,6 @@
 ## 👋 Hi There, I'm Toma
 
-[![My Github Stats!](https://github-readme-stats.vercel.app/api?username=Norok-The-Diablo)](https://github.com/anuraghazra/github-readme-stats)
+[![My Github Stats!](https://github-readme-stats.vercel.app/api?username=tbrsvn)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 🙃 About Me
 
@@ -43,5 +43,5 @@ I'm a programmer, Linux user, and all around computer enthusiast! I won the 2022
 
 <p align="center"> 
   Visitor Count<br>
-  <img src="https://profile-counter.glitch.me/Norok-The-Diablo/count.svg" />
+  <img src="https://profile-counter.glitch.me/tbrsvn/count.svg" />
 </p>
