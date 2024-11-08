@@ -29,17 +29,22 @@ I'm a programmer, Linux user, and all around computer enthusiast! I won the 2022
 
 ### 🌟 Some Of My Favorite Projects I Have Made So Far Are
 
-* [My (Neo)vim config](https://github.com/Norok-The-Diablo/vimconfig)
-* [Recipe finder](https://github.com/Norok-The-Diablo/recipefinder)
-* [Alpaca LLM based voice assistant](https://github.com/Norok-The-Diablo/alpacavoiceassistant)
-* [Medicine Alarm (CFC winning app)](https://github.com/Norok-The-Diablo/CodeForCongressApp)
-* [Goosenator 6000](https://github.com/Norok-The-Diablo/goosenator)
+* [My (Neo)vim config](https://github.com/tbrsvn/vimconfig)
+* [Recipe finder](https://github.com/tbrsvn/recipefinder)
+* [Alpaca LLM based voice assistant](https://github.com/tbrsvn/alpacavoiceassistant)
+* [Medicine Alarm (CFC winning app)](https://github.com/tbrsvn/CodeForCongressApp)
+* [Goosenator 6000](https://github.com/tbrsvn/goosenator)
 
 ### 🌐 Websites I Have Made
 
 * <https://goosenator6000.github.io/>
 * <https://texteditorconfigs.github.io/>
 * <https://meganmoodie.github.io/>
+
+### 📺 If You Think Programming Is For Nerds, Visit My Film Critique Website
+## (Which You Probably Don't If You're On GitHub)
+
+https://tbrsvn.github.io/moviecritiques/
 
 <p align="center"> 
   Visitor Count<br>
