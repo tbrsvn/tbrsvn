@@ -42,7 +42,7 @@ I'm a programmer, Linux user, and all around computer enthusiast! I won the 2022
 * <https://meganmoodie.github.io/>
 
 ### 📺 If You Think Programming Is For Nerds, Visit My Film Critique Website
-## (Which You Probably Don't If You're On GitHub)
+#### (Which You Probably Don't If You're On GitHub)
 
 https://tbrsvn.github.io/moviecritiques/
 
