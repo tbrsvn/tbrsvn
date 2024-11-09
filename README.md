@@ -44,7 +44,7 @@ I'm a programmer, Linux user, and all around computer enthusiast! I won the 2022
 ### 📺 If You Think Programming Is For Nerds, Visit My Film Critique Website
 #### (Which You Probably Don't If You're On GitHub)
 
-https://tbrsvn.github.io/moviecritiques/
+<https://tbrsvn.github.io/>
 
 <p align="center"> 
   Visitor Count<br>
